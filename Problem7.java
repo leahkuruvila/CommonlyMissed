@@ -2,8 +2,7 @@
 /**
  * Write a description of class Problem7 here.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @Leah Kuruvila
  */
 public class Problem7
 {

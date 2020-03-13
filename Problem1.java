@@ -2,12 +2,12 @@
 /**
  * Write a description of class Problem1 here.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @Leah Kuruvila
+ * 
  */
 public class Problem1
 {
-    // instance variables - replace the example below with your own
+    
     public static void main(String [] args){
     
     solution1();
